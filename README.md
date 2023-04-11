@@ -35,4 +35,4 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 - убираем обращение к таблице inventory и обращение inventory_id т.к. они тоже не учавствуют в фильтрации данных.
 
 
-![monitoring](https://github.com/12sergey12/12.5_Indexes/blob/main/images/12.5-22n.png)
+![monitoring](https://github.com/12sergey12/12.5_Indexes/blob/main/images/12.5-24.png)
